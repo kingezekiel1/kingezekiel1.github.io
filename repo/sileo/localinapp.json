@@ -20,11 +20,11 @@
 					"screenshots":[
 						{
 							"accessibilityText":"Screenshot",
-							"url":"https://globalplusplus.github.io/package/crackerxi/1.png"
+							"url":"./package/crackerxi/1.png"
 						},
 						{
 							"accessibilityText":"Screenshot",
-							"url":"https://globalplusplus.github.io/package/crackerxi/2.png"
+							"url":"./package/crackerxi/2.png"
 						}
 					]
 				},
