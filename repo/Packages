@@ -1,7 +1,7 @@
-Package: com.raw++.localapp
+Package: com.kingdomplusplus.localapp
 Version: 1.4-1
 Architecture: iphoneos-arm
-Maintainer: RAW++
+Maintainer: Kingdom++
 Depends: firmware (>= 11.0), ldid (>=2.0)
 Filename: ./LocalIAPStore_1.4-1.deb
 Size: 71170 
@@ -10,7 +10,7 @@ SHA1: C9BB6D2749F5D065E9C29A2A39CF233A3A1465D2
 SHA256: 97D20EBC8F9D96DA6F4749499BE4664D7AB946D469439B7AB04AF1E167AFACA2
 Section: Tweaks
 Description: Free In-App Purcheses
-Depiction:  https://kingezekiel1.github.io/depiction.html?localinapp
+Depiction:  ./depiction.html?localinapp
 Icon: file:///Applications/crackerxi.app/AppIcon.png
 Name: In-App IOS 12x
-Sileodepiction: https://kingezekiel1.github.io/sileo/localinapp.json
+Sileodepiction: ./sileo/localinapp.json
