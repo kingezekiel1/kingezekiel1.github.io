@@ -1,0 +1,227 @@
+Package: com.ipc.crackerxi
+Version: 1.1.5
+Architecture: iphoneos-arm
+Maintainer: c0pyn1nja
+Depends: firmware (>= 11.0), ldid (>=2.0)
+Filename: ./crackerxi.deb
+Size: 9552864
+MD5sum: 293fd349bcc722b9cef80147ee8b3f50
+SHA1: 3bddcfb60bd2d06a875169159096f7fe8882d730
+SHA256: 423c3eaef0bc4fa3d1bbc5eeb9667ea23d86648423dc926bfe0d69942d8f41b0
+Section: System
+Description: Decrypts iOS Apps
+Depiction: https://globalplusplus.github.io/depiction.html?crackerxi
+Icon: file:///Applications/crackerxi.app/AppIcon.png
+Name: CrackerXI+
+Sileodepiction: https://globalplusplus.github.io/sileo/crackerxi.json
+Website: https://ipastore.me
+
+Package: com.pokego2.DraconiusPP
+Version: 1.10.0r-32
+Architecture: iphoneos-arm
+Maintainer: Global++ Tweaks <support@pokego2.com>
+Depends: mobilesubstrate, firmware (>= 7.0)
+Conflicts: com.cokepokes.Masterball, com.ryleyangus.pokepatch, com.williamcobb.pokemonpatch, com.sull.masterball, com.WilliamCobb.pokemongoanywhere, com.WilliamCobb.pokemongoanywherebeta, com.pokego2.DraconiusPP-11
+Filename: ./draconiuspp.deb
+Size: 4713018
+MD5sum: 8de5fd9791e243f18d03037c3d16f6b2
+SHA1: 7a0dc6cb0ee7140dc6842dc45a2b8839eec18d40
+SHA256: 40f6da8bc6c1494d9bf784bfe75e169a77e6ead462316a9c71ee7b42b680ede4
+Section: Tweaks
+Priority: optional
+Description: Hacks and more for Draconius GO!!! Bypass JB Detection.
+Tag: purpose::extension, role::enduser
+Author: Global++ Tweaks <support@pokego2.com>
+Depiction: http://globalplusplus.github.io/depiction.html?drago
+Dev: i4iphones
+Name: DraGo++
+Sileodepiction: https://globalplusplus.github.io/sileo/drago11.json
+
+Package: com.pokego2.DraconiusPP-11
+Version: 1.10.0r-32
+Architecture: iphoneos-arm
+Maintainer: Global++ Tweaks <support@pokego2.com>
+Depends: mobilesubstrate, firmware (>= 7.0)
+Conflicts: com.cokepokes.Masterball, com.ryleyangus.pokepatch, com.williamcobb.pokemonpatch, com.sull.masterball, com.WilliamCobb.pokemongoanywhere, com.WilliamCobb.pokemongoanywherebeta, com.pokego2.DraconiusPP
+Filename: ./draconiuspp11.deb
+Size: 4713798
+MD5sum: dce866d660f8d6a31b976d614795f6e5
+SHA1: 9c15e7293fb90b87ba85cb45d293094e40240ff1
+SHA256: 2e5a0b1a478bf7030c99d8dac77c5fb73e020687e9b81a9ac436fd62888a9ea9
+Section: Tweaks
+Priority: optional
+Description: Hacks and more for Draconius GO!!! Bypass JB Detection.
+Tag: purpose::extension, role::enduser
+Author: Global++ Tweaks <support@pokego2.com>
+Depiction: http://globalplusplus.github.io/depiction.html?drago
+Dev: i4iphones
+Name: DraGo++ (iOS 11+)
+Sileodepiction: http://globalplusplus.github.io/depiction.html?drago
+
+Package: com.pokego2.gbpp
+Version: 1.15.4r-07
+Architecture: iphoneos-arm
+Maintainer: Global++ Tweaks <support@pokego2.com>
+Depends: mobilesubstrate, com.pokego2.shared
+Conflicts: com.cokepokes.Masterball, com.ryleyangus.pokepatch, com.williamcobb.pokemonpatch, com.sull.masterball, com.WilliamCobb.pokemongoanywhere, com.WilliamCobb.pokemongoanywherebeta
+Filename: ./gbpp.deb
+Size: 891352
+MD5sum: 6d28c36480c545115a7d77371a75e969
+SHA1: 2dd55a73ade1e9f0fb73603d329fc8de43d73c05
+SHA256: 03bd83b2216969c1911e5f566bb5e3db68ef4dd08fcdffec67fe967eeb32b63b
+Section: Tweaks
+Priority: optional
+Description: Hacks and more from Global++!!! Bypass JB Detection.
+Tag: purpose::extension, role::enduser
+Author: Global++ Tweaks <support@pokego2.com>
+Depiction: http://globalplusplus.github.io/depiction.html?ghostbusters
+Dev: i4iphones
+Name: Ghostbusters++
+Sileodepiction: https://globalplusplus.github.io/sileo/ghostbusters.json
+
+Package: com.pokego2.ingress
+Version: 2.22.2r-12
+Architecture: iphoneos-arm
+Maintainer: Global++ Tweaks <support@pokego2.com>
+Depends: mobilesubstrate, firmware (>= 7.0), com.pokego2.shared
+Conflicts: com.cokepokes.Masterball, com.ryleyangus.pokepatch, com.williamcobb.pokemonpatch, com.sull.masterball, com.WilliamCobb.pokemongoanywhere, com.WilliamCobb.pokemongoanywherebeta
+Filename: ./ingresspp.deb
+Size: 895438
+MD5sum: 2dce8a45b3cf578b454e9d0bff4059c2
+SHA1: aa72ca278a1cbb64034a585dfcde87db59bf2738
+SHA256: 933ec505f34da4f68a746ac505012137597346d5798c334031d9206fe2a89ea7
+Section: Tweaks
+Priority: optional
+Description: Hacks and more for Ingress!!! Bypass JB Detection.
+Tag: purpose::extension, role::enduser
+Author: Global++ Tweaks <support@pokego2.com>
+Depiction: https://globalplusplus.github.io/depiction.html?ingress
+Dev: E
+Name: Ingress Prime++
+Sileodepiction: https://globalplusplus.github.io/depiction.html?ingress
+
+Package: com.pokego2.jw2
+Version: 1.7.27r-29c
+Architecture: iphoneos-arm
+Maintainer: Global++ Tweaks <support@pokego2.com>
+Depends: mobilesubstrate, firmware (>= 7.0)
+Conflicts: com.cokepokes.Masterball, com.ryleyangus.pokepatch, com.williamcobb.pokemonpatch, com.sull.masterball, com.WilliamCobb.pokemongoanywhere, com.WilliamCobb.pokemongoanywherebeta
+Filename: ./jwpp.deb
+Size: 3237704
+MD5sum: 55675021c7840ff1ada54247373f1402
+SHA1: 0c3e7b73c003086d182ca3e32bf37aff7cbb40f1
+SHA256: 3093b0af6ed2d897df44c78e072496af32580cda262f1bfa0dd2ee2ac18485cd
+Section: Tweaks
+Priority: optional
+Description: Hacks and more for Jurassic World Alive!!! Bypass JB Detection.
+Tag: purpose::extension, role::enduser
+Author: Global++ Tweaks <support@pokego2.com>
+Depiction: https://globalplusplus.github.io/depiction.html?jurassic
+Dev: i4iphones
+Name: Jurassic++
+Sileodepiction: https://globalplusplus.github.io/sileo/jurassic.json
+
+Package: com.pokego2.mgpp
+Version: 1.018r-09
+Architecture: iphoneos-arm
+Maintainer: Global++ Tweaks <support@pokego2.com>
+Depends: mobilesubstrate, firmware (>= 7.0), com.pokego2.shared
+Conflicts: com.cokepokes.Masterball, com.ryleyangus.pokepatch, com.williamcobb.pokemonpatch, com.sull.masterball, com.WilliamCobb.pokemongoanywhere, com.WilliamCobb.pokemongoanywherebeta
+Filename: ./mgpp.deb
+Size: 920846
+MD5sum: 0f22e18a178f453bec8948c8bc1c680c
+SHA1: 00b97213872f03ba78e8877b567c73a36c6e0f51
+SHA256: ec8e56e7f8c8ddab179246a1acfa8e93eebf641d27d0684d321c2d959289214d
+Section: Tweaks
+Priority: optional
+Description: Hacks and more for Maguss!!! Bypass JB Detection.
+Tag: purpose::extension, role::enduser
+Author: Global++ Tweaks <support@pokego2.com>
+Depiction: https://globalplusplus.github.io/depiction.html?maguss
+Dev: i4iphones
+Name: Maguss++
+Sileodepiction: https://globalplusplus.github.io/sileo/maguss.json
+
+Package: com.pokego2.pokego2
+Version: 113a-0.141.1
+Architecture: iphoneos-arm
+Maintainer: Global++ Tweaks <support@pokego2.org>
+Depends: mobilesubstrate, firmware (>= 7.0)
+Conflicts: com.cokepokes.Masterball, com.williamcobb.pokemonpatch, com.sull.masterball, com.WilliamCobb.pokemongoanywhere, com.WilliamCobb.pokemongoanywherebeta, com.pokego2.xcon-pokemongo, com.pokego2.pgpatch
+Filename: ./pokegopp.deb
+Size: 25536006
+MD5sum: 5475ce87716772f30224b64f16d7989b
+SHA1: 12c8a56894c1605717c297019116fba860b54450
+SHA256: 24fc2caeaf51059be5487b150696b59e577f71ba53ed234cd4a3efb0e27f5e60
+Section: Tweaks
+Priority: optional
+Description: This is a partial bypass. You will be detected every 5-30 min. We block the detection with a "Network Error" message. Simply close and reopen. You will not be prompted for credentials again.
+Tag: purpose::extension, role::enduser
+Author: Global++ Tweaks <support@pokego2.com>
+Depiction: https://globalplusplus.github.io/package/pokego/index.html
+Dev: i4iphones
+Name: PokeGo++ 2.0
+Sileodepiction: https://globalplusplus.github.io/package/pokego/pokego.json
+
+Package: com.pokego2.pokego2-11
+Version: 113a-0.141.1
+Architecture: iphoneos-arm
+Maintainer: Global++ Tweaks <support@pokego2.org>
+Conflicts: com.cokepokes.Masterball, com.williamcobb.pokemonpatch, com.sull.masterball, com.WilliamCobb.pokemongoanywhere, com.WilliamCobb.pokemongoanywherebeta, com.pokego2.xcon-pokemongo, com.pokego2.pokego2
+Filename: ./pokegopp11.deb
+Size: 25536046
+MD5sum: e6686c4d83370360c2c33fa182154f59
+SHA1: 122017686f5f0467f5fffe5be4358416a784629a
+SHA256: 776ff1c1f20efcc66ef1f45b8d1436203014e21b946384e1dedc6e733ddaabe5
+Section: Tweaks
+Priority: optional
+Description: This is a partial bypass. You will be detected every 5-30 min. We block the detection with a "Network Error" message. Simply close and reopen. You will not be prompted for credentials again.
+Tag: purpose::extension, role::enduser
+Author: Global++ Tweaks <support@pokego2.com>
+Depiction: https://globalplusplus.github.io/depiction.html?pokego
+Dev: i4iphones
+Name: PokeGo++ 2.0 (iOS 11+)
+Sileodepiction: https://globalplusplus.github.io/sileo/pokego11.json
+
+Package: com.pokego2.shared
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: Global++ Tweaks <support@pokego2.com>
+Depends: mobilesubstrate, firmware (>= 7.0)
+Conflicts: com.cokepokes.Masterball, com.ryleyangus.pokepatch, com.williamcobb.pokemonpatch, com.sull.masterball, com.WilliamCobb.pokemongoanywhere, com.WilliamCobb.pokemongoanywherebeta
+Filename: ./shared.deb
+Size: 968378
+MD5sum: 97c3e786660f1c39576f1e0260a9eba1
+SHA1: 59ec0a562af288810643478213109f654bf0a5d4
+SHA256: 64be43e1e69459841f338a0e82c3d5ed5e19ed8089f96698c8750296d71cb0ea
+Section: Tweaks
+Priority: optional
+Description: Assets and Resources.
+Tag: purpose::extension, role::enduser
+Author: Global++ Tweaks <support@pokego2.com>
+Depiction: https://globalplusplus.github.io/depiction.html?shared
+Dev: i4iphones
+Name: Shared Assets for Tweaks!
+Sileodepiction: https://globalplusplus.github.io/sileo/shared.json
+
+Package: com.pokego2.wdpp
+Version: 6.0.0r-17
+Architecture: iphoneos-arm
+Maintainer: Global++ Tweaks <support@pokego2.com>
+Depends: mobilesubstrate, com.pokego2.shared
+Conflicts: com.cokepokes.Masterball, com.ryleyangus.pokepatch, com.williamcobb.pokemonpatch, com.sull.masterball, com.WilliamCobb.pokemongoanywhere, com.WilliamCobb.pokemongoanywherebeta
+Filename: ./wdpp.deb
+Size: 919272
+MD5sum: 6bc6179fdbeb7e555540f35e60b64b4c
+SHA1: afc8ff807401f1166a07e0ecda0a4a11a8f3a606
+SHA256: a3c142b2cad5c561aa4974749b604d4a79558fc28bbaf718184f3fe805852c07
+Section: Tweaks
+Priority: optional
+Description: Hacks and more from Global++!!! Bypass JB Detection.
+Tag: purpose::extension, role::enduser
+Author: Global++ Tweaks <support@pokego2.com>
+Depiction: https://globalplusplus.github.io/depiction.html?walkingdead
+Dev: i4iphones
+Name: Walking Dead++
+Sileodepiction: https://globalplusplus.github.io/sileo/walkingdead.json
+
