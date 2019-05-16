@@ -225,3 +225,24 @@ Dev: i4iphones
 Name: Walking Dead++
 Sileodepiction: https://globalplusplus.github.io/sileo/walkingdead.json
 
+Package: com.kingdompp.localinapp
+Version: 1.4-1
+Architecture: iphoneos-arm
+Maintainer: Kingdom++ <support@pokego2.com>
+Depends: 
+Conflicts: 
+Filename: ./localinapp141.deb
+Size: 71170
+MD5sum: ADCE93B64675706F4A4C4B5204A1E8FE
+SHA1: C9BB6D2749F5D065E9C29A2A39CF233A3A1465D2
+SHA256: 97d20ebc8f9d96da6f4749499be4664d7ab946d469439b7ab04af1e167afaca2
+Section: Tweaks
+Priority: optional
+Description: Hacks and more from Global++!!! Bypass JB Detection.
+Tag: purpose::extension, role::enduser
+Author: Global++ Tweaks <support@pokego2.com>
+Depiction: https://globalplusplus.github.io/depiction.html?walkingdead
+Dev: i4iphones
+Name: Local In-App
+Sileodepiction: https://globalplusplus.github.io/sileo/walkingdead.json
+
