@@ -10,7 +10,7 @@
 			"views":[
 				{
 					"class":"DepictionMarkdownView",
-					"markdown":"Tweak for The Walking Dead: Our World\n\nThis tweak allows players to walk their character in-game with a joystick.",
+					"markdown":"Tweak for In App buying",
 					"useSpacing":true
 				},
 				{
@@ -20,7 +20,7 @@
 					"screenshots":[
 						{
 							"accessibilityText":"Screenshot",
-							"url":"https://globalplusplus.github.io/package/walkingdead/1.png"
+							"url":""
 						}
 					]
 				},
