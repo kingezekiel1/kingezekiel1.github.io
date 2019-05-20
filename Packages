@@ -13,7 +13,7 @@ Section: System
 Priority: optional
 Description: Hacks and more from Global++!!! Bypass JB Detection.
 Tag: purpose::extension, role::enduser
-Author: Global++ Tweaks <support@pokego2.com>
+Author: Twister Repo <support@pokego2.com>
 Depiction: https://kingezekiel1.github.io/depiction.html?localinapp
 Dev: i4iphones
 Name: Local In-App
