@@ -38,7 +38,7 @@
 				},
 				{
 					"class":"DepictionTableTextView",
-					"text":"893.5 KB",
+					"text":"69.3 KB",
 					"title":"Size"
 				},
 				{
@@ -53,12 +53,12 @@
 				},
 				{
 					"class":"DepictionTableTextView",
-					"text":"1.4-1",
+					"text":"1.4-2",
 					"title":"Version"
 				},
 				{
 					"class":"DepictionTableTextView",
-					"text":"5.1.0",
+					"text":"0.0.0",
 					"title":"App Store Version"
 				},
 				{
