@@ -4,11 +4,11 @@ Architecture: iphoneos-arm
 Maintainer: Kingdom++ <support@pokego2.com>
 Depends: 
 Conflicts: 
-Filename: ./localinapp141.deb
+Filename: ./com.hackyouriphone.localiapstore_1.4-2.deb
 Size: 71170
-MD5sum: ADCE93B64675706F4A4C4B5204A1E8FE
-SHA1: C9BB6D2749F5D065E9C29A2A39CF233A3A1465D2
-SHA256: 97d20ebc8f9d96da6f4749499be4664d7ab946d469439b7ab04af1e167afaca2
+MD5sum: 922f94a4f4b404e9d06bb18d14286c7e
+SHA1: 2461d2f4e7b13e79c4c1f04c2d533b0099753088
+SHA256: a48720486f30a1c1bf9623b161306b817d2065a8d60bceb1e3f44c6f1b137fba
 Section: System
 Priority: optional
 Description: Hacks and more from Global++!!! Bypass JB Detection.
