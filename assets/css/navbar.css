@@ -7,7 +7,7 @@ html {
 }
 
 #navbar {
-  background: rgba(0,0,0,0.42);
+  background: black;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25);
   color: white;
   border-radius: 25px;
@@ -15,6 +15,7 @@ html {
   margin-top: 10px;
   margin-left: auto;
   margin-right: auto;
+  width: calc(90% - 20px);
   max-width: 900px;
   overflow: hidden;
   margin-bottom: 25px;
@@ -39,7 +40,7 @@ html {
   max-width: 100%;
   min-width: 100%;
   z-index: 999;
-  /*position: fixed;*/
+  position: fixed;
   top: 0;
   left: 0;
 }
@@ -140,7 +141,7 @@ html {
 }
 
 .navButtonIcon {
-  /*margin-left: 4px;*/
+  margin-left: 4px;
   margin-top: 3px;
   vertical-align: middle;
   width: 22px;
@@ -174,44 +175,9 @@ html {
   float: none;
 }
 
-#title2 {
-  margin: 0 !important;
-  vertical-align: middle;
-  /*display: inline-block;*/
-  color: white;
-  font-size: 35px;
-  font-weight: bold;
-  float: inherit;
-  text-align: center;
-}
-
-#title1a {
-  margin: 0 !important;
-  vertical-align: middle;
-  /*display: inline-flex;*/
-  color: white;
-  font-size: 35px;
-  font-weight: bold;
-  float: inherit;
-  text-align: center;
-  padding-top: 8px;
-}
-
-#title1b {
-  margin: 0 !important;
-  vertical-align: middle;
-  display: inline-flex;
-  color: white;
-  font-size: 35px;
-  font-weight: bold;
-  float: inherit;
-  /*text-align: center;*/
-  padding-top: 8px;
-}
-
 @media screen and (max-width: 600px) {
   #title {
-    font-size: 18px;
+    font-size: 0px;
   }
 }
 
